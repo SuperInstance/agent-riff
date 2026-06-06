@@ -2,5 +2,7 @@
 name = "agent-riff"
 version = "0.1.0"
 edition = "2024"
+description = "agent-riff"
+license = "MIT"
 
 [dependencies]
